@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameLoad.cs">
+    <Files>
+      <File FileName="Assets\Scripts\charaterCreation.cs" Line="45" Column="46" />
+      <File FileName="Assets\Scripts\GameLoad.cs" Line="16" Column="41" />
+      <File FileName="Assets\TextInfo\SkillsInfoList.txt" Line="11" Column="102" />
+      <File FileName="Assets\Scripts\MagicSphere.cs" Line="12" Column="16" />
+      <File FileName="Assets\Scripts\WolfBaby.cs" Line="133" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
